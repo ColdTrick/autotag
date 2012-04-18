@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="ColdTrick IT Solutions" />
+	<field key="version" value="1.0.2" />
+	<field key="description" value="Autotagging a (string of) text" />
+	<field key="website" value="http://www.coldtrick.com" />
+	<field key="copyright" value="(C) ColdTrick IT Solutions 2009" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2009030702" />
+</plugin_manifest>
+<!--
+
+====================
+Version history
+====================
+1.0.2:
+	- fixed: added tokens to parse url
+	
+1.0.1 (2010-03-12):
+	- fixed: incorrect handling of array in actions/parse.php
+
+1.0:
+	- initial release
+
+-->
